@@ -1,2 +1,3 @@
 # Kotlin-
-Learning kotlin
+-Learning kotlin
+-Making the small projects of kotlin
